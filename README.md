@@ -11,7 +11,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+- <b>Google Cybersecurity Professional Certificate Portfolio Projects</b>
+  - [Conduct a Security Audit](Link to it)
+  - [Incident Report Analysis](Link to it)
+  - [File Permissions in Linux](Link to it)
+  - [Apply Filters to SQL Queries](Link to it)
+  - [Vulnerability Assessment Report](Link to it)
+  - [Incident Handler's Journal](Link to it)
+  - [Algorithm for File Updates in Python](Link to it)
 
 <h2>📺 Popular YouTube Videos</h2>
 --------------
