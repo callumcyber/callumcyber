@@ -13,7 +13,7 @@
 
 - <b>Google Cybersecurity Professional Certificate Portfolio Projects</b>
   - [Conduct a Security Audit](https://github.com/callumcyber/SecurityAudit)
-  - [Incident Report Analysis](Link to it)
+  - [Incident Report Analysis](https://github.com/callumcyber/IncidentReportAnalysis/blob/main/README.md)
   - [File Permissions in Linux](Link to it)
   - [Apply Filters to SQL Queries](Link to it)
   - [Vulnerability Assessment Report](Link to it)
