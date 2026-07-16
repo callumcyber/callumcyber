@@ -12,7 +12,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Google Cybersecurity Professional Certificate Portfolio Projects</b>
-  - [Conduct a Security Audit](Link to it)
+  - [Conduct a Security Audit](https://github.com/callumcyber/SecurityAudit)
   - [Incident Report Analysis](Link to it)
   - [File Permissions in Linux](Link to it)
   - [Apply Filters to SQL Queries](Link to it)
