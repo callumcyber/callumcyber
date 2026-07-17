@@ -13,11 +13,11 @@
 
 - <b>Google Cybersecurity Professional Certificate Portfolio Projects</b>
   - [Conduct a Security Audit](https://github.com/callumcyber/SecurityAudit)
-  - [Incident Report Analysis](https://github.com/callumcyber/IncidentReportAnalysis/blob/main/README.md)
-  - [File Permissions in Linux](Link to it)
-  - [Apply Filters to SQL Queries](Link to it)
-  - [Vulnerability Assessment Report](Link to it)
-  - [Incident Handler's Journal](Link to it)
+  - [Incident Report Analysis](https://github.com/callumcyber/IncidentReportAnalysis)
+  - [File Permissions in Linux](https://github.com/callumcyber/FilePermissions-Linux)
+  - [Apply Filters to SQL Queries](https://github.com/callumcyber/ApplyFilters-SQL_Queries)
+  - [Vulnerability Assessment Report](https://github.com/callumcyber/VulnerabilityAssessmentReport)
+  - [Incident Handler's Journal](https://github.com/callumcyber/IncidentHandlersJournal)
   - [Algorithm for File Updates in Python](Link to it)
 
 <h2>📺 Popular YouTube Videos</h2>
