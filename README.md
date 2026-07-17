@@ -18,7 +18,7 @@
   - [Apply Filters to SQL Queries](https://github.com/callumcyber/ApplyFilters-SQL_Queries)
   - [Vulnerability Assessment Report](https://github.com/callumcyber/VulnerabilityAssessmentReport)
   - [Incident Handler's Journal](https://github.com/callumcyber/IncidentHandlersJournal)
-  - [Algorithm for File Updates in Python](Link to it)
+  - [Algorithm for File Updates in Python](https://github.com/callumcyber/Algorithm-FileUpdates-Python)
 
 <h2>📺 Popular YouTube Videos</h2>
 --------------
