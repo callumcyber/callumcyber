@@ -20,9 +20,6 @@
   - [Incident Handler's Journal](https://github.com/callumcyber/IncidentHandlersJournal)
   - [Algorithm for File Updates in Python](https://github.com/callumcyber/Algorithm-FileUpdates-Python)
 
-<h2>📺 Popular YouTube Videos</h2>
---------------
-
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/callum-fraser-726287282" target="_blank">
